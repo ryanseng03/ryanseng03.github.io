@@ -1,54 +1,52 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ryan Seng",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://avatars.githubusercontent.com/u/24851269?s=400&u=55171e2f4deb943ef880423cec07f8c6a54b705c&v=4",
+    "email": "ryanseng@hawaii.edu",
+    "phone": "808-670-6935",
+    "website": "https://ryanseng32.github.io",
+    "summary": "B.S. Computer Science | University of Hawaii at Manoa | Expected Graduation Spring 2025",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ryanseng32", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "ryanseng415", "url": "http://linkedin.com/in/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Technology" },
+    { "name": "Weight Training" },
+    { "name": "Automobiles" },
+    { "name": "Music" },
+    { "name": "Food" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub", "JSFiddle", "Eclipse", "Terminal" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 22025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "08.21.2021",
       "endDate": "Present",
-      "courses": [
+      "courses": ["Introduction to Programming", "Discrete Math", "Scripting", "Software Engineering"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Warrior Recreation Center",
+      "position": "Front Desk Office Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "06.05.2023",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
