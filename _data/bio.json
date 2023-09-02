@@ -14,7 +14,7 @@
     ]
   },
   "interests": [
-    { "name": "Technology" },
+    { "name": "Software Engineering" },
     { "name": "Weight Training" },
     { "name": "Automobiles" },
     { "name": "Music" },
@@ -35,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "08.21.2021",
+      "startDate": "08-21-2021",
       "endDate": "Present",
       "courses": ["Introduction to Programming", "Discrete Math", "Scripting", "Software Engineering"
       ]
@@ -46,7 +46,7 @@
       "company": "Warrior Recreation Center",
       "position": "Front Desk Office Assistant",
       "website": "",
-      "startDate": "06/2023",
+      "startDate": "06-2023",
       "endDate": "Present",
       "summary": "Handling of patrons database; selling memberships and classes",
       "highlights": [
@@ -59,8 +59,8 @@
       "company": "Bath and Body Works",
       "position": "Sales Associate",
       "website": "",
-      "startDate": "08/2020",
-      "endDate": "07/2021",
+      "startDate": "08-2020",
+      "endDate": "07-2021",
       "summary": "Built satisfied and loyal customer bases through engagement and uncovering.",
       "highlights": [
         "Executed to the company's selling model.",
@@ -74,8 +74,8 @@
       "organization": "Roosevelt Leo Club",
       "website": "https://rhsleoclub.weebly.com",
       "position": "Student Volunteer",
-      "startDate": "08/2018",
-      "endDate": "05/2021",
+      "startDate": "08-2018",
+      "endDate": "05-2021",
       "summary": "Contributed volunteer work towards various projects every year.",
       "highlights": [
         "Accumilated over 250 hours of volunteer work",
