@@ -27,4 +27,4 @@ Through this project I learned to use my knowledge that I have attained througho
 
 In the end, I left feeling very satisfied that I was able to create something of my own without any peer help and just using the tools at my disposal.
 
-Link to repository: https://github.com/ryanseng32/212/tree/main
+<a href = "https://github.com/ryanseng32/212/tree/main">Link to repository<a>
