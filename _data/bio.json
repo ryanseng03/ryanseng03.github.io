@@ -23,17 +23,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub", "JSFiddle", "Eclipse", "Terminal" ]
+      "keywords": [ "macOS", "WindowsOS", "Git/GitHub", "JSFiddle", "Eclipse", "Terminal" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 22025)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "08.21.2021",
       "endDate": "Present",
@@ -46,66 +46,66 @@
       "company": "Warrior Recreation Center",
       "position": "Front Desk Office Assistant",
       "website": "",
-      "startDate": "06.05.2023",
+      "startDate": "06/2023",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Handling of patrons database; selling memberships and classes",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Sells WRC memberships and classes such as group hikes or sailing.",
+        "Organizes patron excel sheets to promote efficiency among staff.",
+        "Provides information to patrons if needed (phone calls, emails)."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Bath and Body Works",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "08/2020",
+      "endDate": "07/2021",
+      "summary": "Built satisfied and loyal customer bases through engagement and uncovering.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Executed to the company's selling model.",
+        "Supported replenishment activities that keep the store full and abundant.",
+        "Helped customers checkout and capture phone numbers and email for future visits into the establishment."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Roosevelt Leo Club",
+      "website": "https://rhsleoclub.weebly.com",
+      "position": "Student Volunteer",
+      "startDate": "08/2018",
+      "endDate": "05/2021",
+      "summary": "Contributed volunteer work towards various projects every year.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Accumilated over 250 hours of volunteer work",
+        "Established relationships with leaders to further increase impact of each project."
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "Fall 2021, Spring 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students who earn a G.P.A. of 3.5 or higher while taking 12 credits or more."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "President's Volunteer Service Award - Bronze",
+      "date": "2019",
+      "awarder": "U.S. Government",
+      "summary": "Awarded to Young Adults to dedicate over 100 hours of volunteer work over 12 months."
     }
   ],
   "references": [
