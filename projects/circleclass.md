@@ -21,7 +21,7 @@ This would require the use of accessor and mutator functions to get and set valu
 
 There would also have to be a derived class, Cylinder, which inherits the attributes of a circle, the only different would be the calculation in volume and area would have to differ.
 
-<img class="img-fluid" src="../img/cotton/cylinder.png">
+<img class="img-fluid" src="../img/cylinder.png">
 
 Through this project I learned to use my knowledge that I have attained throughout the semester, utilizing different data types and variables to achieve a satisfactory score. Since there would be many lines in the code, this pushed me to write brief, but detailed comments throughout and organizing the code with proper formatting and spacing.
 
