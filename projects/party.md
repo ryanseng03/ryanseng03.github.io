@@ -16,7 +16,7 @@ Our goal, to party.
 
 We needed to plan thouroughly.
 
-<img class="img-fluid" src="../img/karaoke.jpeg">
+<img class="img-fluid" src="../img/karaoke.jpeg" width="300px">
 
 ## Planning Commences
 
@@ -34,6 +34,6 @@ Now it is time to welcome the guests. We spend time just talking and then we fin
 
 Once we came back, party time. Playing some fun games, eating, talking story, walking around town, just... so much fun.
 
-<img class="img-fluid" src="../img/party.jpeg">
+<img class="img-fluid" src="../img/party.jpeg" width="300px">
 
 From this small project, I slightly gained some planning skills, working with peers while also considering their wants and needs to accomodate for everyone. I learned that I will have to make some sacrifices and also have everyone meet eachother halfway when it comes to something like this. In future endevors, I hope to improve my communication skills and try to be more direct in order to more efficiently expedite the process.
