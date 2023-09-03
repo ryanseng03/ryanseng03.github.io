@@ -11,6 +11,7 @@
   --bs-font-sans-serif: "Bitter", sans-serif;
   --bs-font-color: var(--bs-white);
   --bs-link-color: var(--bs-blue);
+  --bs-header-color: var(--bs-white);
   --tf-pill-bg: var(--tf-gray1);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
