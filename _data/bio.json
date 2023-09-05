@@ -6,11 +6,11 @@
     "email": "ryanseng@hawaii.edu",
     "phone": "808-670-6935",
     "website": "https://ryanseng32.github.io",
-    "summary": "B.S. Computer Science | University of Hawaii at Manoa | Expected Graduation Spring 2025",
+    "summary": "I am majoring in B.S. Computer Science at the University of Hawaii at Manoa. I am expected to graduate in Spring 2025",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "ryanseng32", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "ryanseng415", "url": "http://linkedin.com/in/changeme" }
+      { "network": "github", "username": "ryanseng32", "url": "https://github.com/ryanseng32" },
+      { "network": "linkedin", "username": "ryanseng415", "url": "https://www.linkedin.com/in/ryanseng415/" }
     ]
   },
   "interests": [
