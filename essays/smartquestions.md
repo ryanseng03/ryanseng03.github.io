@@ -10,6 +10,8 @@ labels:
   - Questions
 ---
 
+### SMART Questions
+
 Asking good questions is a skill. However it may not be a difficult one to hone. It may require a shift in thinking or mindset. Due to our generation growing up in this technological boom, we often take for granted that we can have so much information at the tip of our fingers, at any time. Maybe we are too accustomed to asking vague questions to our peers because we assume that they already know the context of the problem. Or maybe rely too much on others helping us on things when we can easily access that information on the web.
 
 I have never been someone to ask for help if no one is around. I always try to figure out a way to solve the problem at hand, alone. There is always a search engine right in my hand. It is such a powerful tool. I can ask it to translate something for me, learn about programming functions, or even ask about the weather. This may stem from my reluctance to ask someone for help due to shyness or the belief that I do not need someone else’s assistance. Therefore, I just push through, and if I fail… I will take it.
@@ -22,6 +24,8 @@ StackOverflow is a community that allows users to ask questions about software a
 <a href = "https://stackoverflow.com/questions/9942594/unicodeencodeerror-ascii-codec-cant-encode-character-u-xa0-in-position-20">Unicode Encode Error<a>
 
 Here the original poster writes about having difficulty with unicode encoding errors. They detail what program they use and that the issue is produced only on some webpages. They provide two short snippets of their code and say what they have tried so far and what kind of errors they are getting. The answers are short and precise. The replies provide advice and documentation on the exact problem the original poster is having, and the comments are quite civil.
+
+## Some Bad Questions
 
 <a href = "https://stackoverflow.com/questions/5886112/c-i-have-two-questions">C++ Homework Question<a>
 
