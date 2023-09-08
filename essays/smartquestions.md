@@ -37,4 +37,6 @@ The second question is a very basic question that they could have just copy and 
 
 As we can see, asking good questions can give you very insightful answers. Asking poorly written questions can cause you to be humiliated.
 
+## Takeaway
+
 We can avoid this by assuming that the commenters do not know everything and try to lead them to have the same understanding of where you are at in the program. Not just copy and pasting your entire code into the website prompt, but detailing the problem, what have you tried so far such as alternatives or switching things around, what have you searched up on the web, and so on. This way the commenters will not have to ask too many further questions, or spend too much time figuring the problem out while the original poster just waits around. This will make everyone’s lives easier, and build a better community.
