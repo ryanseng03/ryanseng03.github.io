@@ -17,6 +17,8 @@ I did not put in the hard work.
  
 I am not a very productive person, nor a very motivated person. Just an average lazy student that just gets by. It would take months to build a strong habit of studying to get me out of this slump. That is not to say that I never study, or I do not know how to code. I study if I feel like it's necessary. Calculus, Physics, Linear Algebra… I studied my butt off and just got subpar scores or even barely passing. So, maybe I must be doing something wrong?
 
+<img class="img-fluid" src="../img/rocky.jpeg" width="400px">
+
 ## Working Out
 
 As someone who works out very often, I learned that you have to do your own experimenting for almost every exercise you do. It is not enough to just read a workout program you found on the internet or from your friend if you are not working out properly and making the most out of the exercises.
