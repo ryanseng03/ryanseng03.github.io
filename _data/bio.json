@@ -2,11 +2,11 @@
   "basics": {
     "name": "Ryan Seng",
     "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/24851269?s=400&u=55171e2f4deb943ef880423cec07f8c6a54b705c&v=4",
+    "picture": "img/headshot.jpeg",
     "email": "ryanseng@hawaii.edu",
     "phone": "808-670-6935",
     "website": "https://ryanseng32.github.io",
-    "summary": "I am majoring in B.S. Computer Science at the University of Hawaii at Manoa. I am expected to graduate in Spring 2025",
+    "summary": "I am majoring in B.S. Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am expected to graduate in Spring 2025",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ryanseng32", "url": "https://github.com/ryanseng32" },
@@ -35,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2021-08-21",
+      "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": ["Introduction to Programming", "Discrete Math", "Scripting", "Software Engineering"
       ]
@@ -92,7 +92,7 @@
     },
     {
       "title": "President's Volunteer Service Award - Bronze",
-      "date": "2019",
+      "date": "2019-12-15",
       "awarder": "U.S. Government",
       "summary": "Awarded to Young Adults to dedicate over 100 hours of volunteer work over 12 months."
     }
