@@ -12,16 +12,16 @@ summary: "Various projects throughout 2020 to help others during the COVID-19 Pa
 ---
 Throughout the COVID-19 Pandemic, my schools volunteering club hosted many projects to help out others. I was very interested in joining these activities as I wanted to get out of the house.
 
-<center><img class="img-fluid" src="../img/standing.JPG" width="400px"></center>
+<img class="img-fluid" src="../img/standing.JPG" width="400px">
 
 I gathered a couple friends, contacted those who I haven't seen in so long, and then we went to work.
 
 There were a lot of food drives. Those projects involved moving boxes of food, milk cartons and jugs into a truck or from a warehouse, or just back and forth. We set up tables and tents for a drive by deposit into the cars of participants to maintain minimal contact and ensuring a quick depletion of the goods.
 
-<center><img class="img-fluid" src="../img/liftingfood.JPG" width="400px"></center>
+<img class="img-fluid" src="../img/liftingfood.JPG" width="400px">
 
 One of the projects had us load food into boxes or bags, similar to packing a care package, and putting them out for ease of distribution to participants that day. This was incredibly fun as it was not a difficult amount of manual labor, but it felt like I was getting a good experience learning what workers at this food pantry are usually responsible for.
 
-<center><img class="img-fluid" src="../img/carfood.JPG" width="400px"></center>
+<img class="img-fluid" src="../img/carfood.JPG" width="400px">
 
 Through these projects and activities, I learned some teamwork skill, such as relying on others and actively communicating with eachother to more efficiently complete our goal that day. After the projects we could sign up for more dates and events which would allow us to use the valuable knowledge of the program logistics to train newer student volunteers that are interested in the activity as well.
