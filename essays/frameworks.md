@@ -24,9 +24,16 @@ But it is a journey that we all have to go through as programmers. Nothing is ea
 ### Some projects
 
 Here are some examples of code without a framework and with a framework.
-<img width="300px" class="rounded float-start pe-4" src="../img/original.png">
-<img width="300px" class="rounded float-end pe-4" src="../img/bootstrap.png">
+
+<div class="text-center">
+  <img width="500px" class="img-thumbnail" src="../img/original.png">
+  <img width="500px" class="img-thumbnail" src="../img/bootstrap.png">
+
+</div>
 
 Below is my effort in recreating a website that did not utilize Bootstrap and then with Bootstrap. It was much harder than I thought it would be.
-<img width="300px" class="rounded float-start pe-4" src="../img/curryhouseoriginal1.png">
-<img width="300px" class="rounded float-end pe-4" src="../img/ryancurry1.png">
+
+<div class="text-center">
+<img width="500px" class="img-thumbnail" src="../img/curryhouseoriginal1.png">
+<img width="500px" class="img-thumbnail" src="../img/ryancurry1.png">
+</div>
