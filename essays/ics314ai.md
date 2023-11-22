@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My use of A.I. in ICS 314"
+title: "A.I. is wicked good!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-21
 published: true
@@ -10,8 +10,6 @@ labels:
   - Education
   - Coding
 ---
-Ryan Seng
-
 # My use of Artificial Intelligence in ICS 314
 
 ## Introduction
@@ -20,7 +18,7 @@ With the boom of AI, it seems like it is everywhere now. I see it so often in va
 ## Personal Experience with AI
 Throughout my university career, I have not used AI in too many cases. I tend to want to push through and do it on my own for dignity purposes. I get some sort of satisfaction from creating a program that solves a problem, especially when it is a difficult one that takes a lot of time and effort. Therefore, the only use cases of AI for me is a mundane task such as a short forum post or a small essay that I do not fully understand.
 
-### In ICS 314 (Software Engineering I), we are allowed to use AI in our assignments, and while I have reached to use it in some occasions, I do not know how to properly ask a good enough question for it to be effective. The problems that we must solve seem to be too complex for a simple query in the message box of an AI program.
+In ICS 314 (Software Engineering I), we are allowed to use AI in our assignments, and while I have reached to use it in some occasions, I do not know how to properly ask a good enough question for it to be effective. The problems that we must solve seem to be too complex for a simple query in the message box of an AI program.
 
 ### Experience WODs
 In Experience WODs, I actually enjoy doing them on my own and do not have much trouble figuring out the solution. In addition, the answers or help are given at the bottom of the experiences usually and the instructions are simple enough to follow along.
