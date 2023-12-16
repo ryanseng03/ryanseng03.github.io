@@ -14,7 +14,7 @@ summary: "A website that allows users to submit reviews for courses at UH Manoa"
 ---
 ## Heluna Manoa
 
-<img src="../img/helunaHome.png" width="500">
+<img src="../img/helunaHome.png" width="700px">
 
 Our final class project engaged a team of five talented individuals to create a comprehensive website dedicated to reviewing academic courses across various disciplines. The endeavor was a fusion of collaborative effort, technical prowess, and an acute understanding of user experience.
 
@@ -43,9 +43,9 @@ The project underwent several stages:
 ### Personal Effort:
 For my share of effort, I created the review cards component, which would be used throughout the website. One main function of the review cards was to power the user reviews page. This page allows the logged-in user to render their own reviews and edit and delete if necessary.
 
-<img src="../img/helunaYourReviews.png" width="500">
+<img src="../img/helunaYourReviews.png" width="700px">
 
-<img src="../img/helunaEditReview.png" width="500">
+<img src="../img/helunaEditReview.png" width="700px">
 
 In conclusion, the creation of this course review website was a collaborative effort that showcased our team's dedication, technical skills, and ability to overcome challenges. The platform stands as a testament to our commitment to enhancing the educational experience by providing students with a reliable source for course evaluations and recommendations.
 
