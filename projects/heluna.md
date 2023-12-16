@@ -12,9 +12,9 @@ labels:
   - Teamwork
 summary: "A website that allows users to submit reviews for courses at UH Manoa"
 ---
-## Heluna Manoa
-
 <img src="../img/helunaHome.png" width="700px">
+
+## Final Project
 
 Our final class project engaged a team of five talented individuals to create a comprehensive website dedicated to reviewing academic courses across various disciplines. The endeavor was a fusion of collaborative effort, technical prowess, and an acute understanding of user experience.
 
@@ -46,6 +46,8 @@ For my share of effort, I created the review cards component, which would be use
 <img src="../img/helunaYourReviews.png" width="700px">
 
 <img src="../img/helunaEditReview.png" width="700px">
+
+## To Conclude
 
 In conclusion, the creation of this course review website was a collaborative effort that showcased our team's dedication, technical skills, and ability to overcome challenges. The platform stands as a testament to our commitment to enhancing the educational experience by providing students with a reliable source for course evaluations and recommendations.
 
