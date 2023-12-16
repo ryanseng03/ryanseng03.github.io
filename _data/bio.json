@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "macOS", "WindowsOS", "Git/GitHub", "JSFiddle", "Eclipse", "Terminal" ]
+      "keywords": [ "macOS", "ReactJS", "Git/GitHub", "Meteor", "Eclipse", "Terminal" ]
     }
   ],
   "education": [
@@ -44,7 +44,7 @@
   "work": [
     {
       "company": "Warrior Recreation Center",
-      "position": "Front Desk Office Assistant",
+      "position": "Front Desk Office Manager",
       "website": "",
       "startDate": "2023-06-05",
       "endDate": "Present",
