@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Ryan Seng",
+    "label": "Student",
+    "picture": "img/headshot.jpeg",
+    "email": "ryanseng@hawaii.edu",
+    "phone": "808-670-6935",
+    "website": "https://ryanseng32.github.io",
+    "summary": "I am majoring in B.S. Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am expected to graduate in Spring 2025",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "ryanseng32", "url": "https://github.com/ryanseng32" },
+      { "network": "linkedin", "username": "ryanseng415", "url": "https://www.linkedin.com/in/ryanseng415/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Weight Training" },
+    { "name": "Automobiles" },
+    { "name": "Music" },
+    { "name": "Food" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "macOS", "ReactJS", "Git/GitHub", "Meteor", "Eclipse", "Terminal" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": ["Introduction to Programming", "Discrete Math", "Scripting", "Software Engineering"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Warrior Recreation Center",
+      "position": "Front Desk Office Manager",
+      "website": "",
+      "startDate": "2023-06-05",
+      "endDate": "Present",
+      "summary": "Handling of patrons database; selling memberships and classes",
+      "highlights": [
+        "Sells WRC memberships and classes such as group hikes or sailing.",
+        "Organizes patron excel sheets to promote efficiency among staff.",
+        "Provides information to patrons if needed (phone calls, emails)."
+      ]
+    },
+    {
+      "company": "Bath and Body Works",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2020-08-01",
+      "endDate": "2021-07-21",
+      "summary": "Built satisfied and loyal customer bases through engagement and uncovering.",
+      "highlights": [
+        "Executed to the company's selling model.",
+        "Supported replenishment activities that keep the store full and abundant.",
+        "Helped customers checkout and capture phone numbers and email for future visits into the establishment."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Roosevelt Leo Club",
+      "website": "https://rhsleoclub.weebly.com",
+      "position": "Student Volunteer",
+      "startDate": "2018-08-20",
+      "endDate": "2021-05-15",
+      "summary": "Contributed volunteer work towards various projects every year.",
+      "highlights": [
+        "Accumilated over 250 hours of volunteer work",
+        "Established relationships with leaders to further increase impact of each project."
+      ]
+    },
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2021, Spring 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students who earn a G.P.A. of 3.5 or higher while taking 12 credits or more."
+    },
+    {
+      "title": "President's Volunteer Service Award - Bronze",
+      "date": "2019-12-15",
+      "awarder": "U.S. Government",
+      "summary": "Awarded to Young Adults to dedicate over 100 hours of volunteer work over 12 months."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

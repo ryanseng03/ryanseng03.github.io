@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Help! I don't know how to design my program! | Ryan Seng | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="img/headshot.jpeg">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Ryan Seng | Professional Portfolio">
+    <meta property="og:url" content="https://ryanseng32.github.io/essays/designpatterns.html">
+    <meta property="og:title" content="Help! I don't know how to design my program! | Ryan Seng | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="img/headshot.jpeg">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/bitter.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/gruvbox.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Help! I don't know how to design my program! | Ryan Seng | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Ryan Seng</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Help! I don't know how to design my program!</h1>
+  <span class="date">30 Nov 2023</span>
+  <hr>
+  <h1 id="design-patterns-to-the-rescue">Design Patterns to the Rescue!</h1>
+
+<p><em>“I don’t know how to design this website! What will I ever do!?”</em></p>
+
+<h3 id="a-shift-in-thinking">A shift in thinking</h3>
+<p>Design patterns… Think of design patterns as handy templates in programming. They serve as reusable solutions, guiding the structure and interaction between different components of a software system. These patterns streamline the development process, promoting best practices and making the codebase more understandable and maintainable. To grasp the importance of design patterns, think of them as tried-and-tested formulas that help programmers build software more efficiently. Imagine them as recipes that chefs follow to create delicious dishes; developers use these patterns to create efficient and reliable software.</p>
+
+<h3 id="singleton">Singleton</h3>
+<p>One such pattern is the “Singleton,” which ensures there’s only one of something in the entire program. It’s like having a magic potion that guarantees only one instance of an object exists. In practical terms, I’ve used the Singleton pattern to create a configuration manager that remains consistent across the entire system. This prevents conflicts that might arise from multiple instances and ensures that all parts of the code access the same configuration settings. I used this pattern to make sure there’s only one function in a file that has one intention for other files, avoiding confusion and keeping things consistent.</p>
+
+<h3 id="observer">Observer</h3>
+<p>Another useful pattern is the “Observer.” It’s like a busy town square where different things are happening, and everyone’s watching and reacting to a main event. In the coding world, the Observer pattern allows various parts of a program to observe changes in one object (the subject) and react accordingly. I used this pattern to create a system where various parts of the program react to changes in data in real-time, like getting instant notifications and being able to change it from another page.</p>
+
+<h3 id="strategy">Strategy</h3>
+<p>Then there’s the “Strategy” pattern, which is like having a toolkit with interchangeable tools, each suited for a different task. This pattern enables algorithms to be selected dynamically at runtime, fostering flexibility and adaptability in the codebase. I have used this pattern to switch between data structures and frameworks as I saw what each page would need to use for it to be well designed. It’s akin to having the ability to use different shipping carriers based on specific customer needs, without restructuring the entire shipping process.</p>
+
+<h3 id="all-in-all">All in all</h3>
+<p>In conclusion, design patterns are invaluable tools that empower developers to write cleaner, more maintainable code. Their application offers a structured approach to problem-solving, akin to following a well-crafted recipe. Through my experience, I’ve found these patterns to be fundamental in creating robust and flexible software systems, providing a roadmap for efficient and effective programming practices.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
